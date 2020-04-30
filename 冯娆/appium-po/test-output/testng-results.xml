@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25474" started-at="2020-04-30T05:42:57Z" finished-at="2020-04-30T05:43:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25474" started-at="2020-04-30T05:42:57Z" finished-at="2020-04-30T05:43:23Z">
+      <class name="edu.testcase.NewsPageTest">
+        <test-method status="PASS" signature="globalSetup()[pri:0, instance:edu.testcase.NewsPageTest@7907ec20]" name="globalSetup" is-config="true" duration-ms="16072" started-at="2020-04-30T13:42:57Z" finished-at="2020-04-30T13:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalSetup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:edu.testcase.NewsPageTest@7907ec20]" name="login" is-config="true" duration-ms="4989" started-at="2020-04-30T13:43:13Z" finished-at="2020-04-30T13:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testEnterSearch()[pri:1, instance:edu.testcase.NewsPageTest@7907ec20]" name="testEnterSearch" duration-ms="2566" started-at="2020-04-30T13:43:18Z" finished-at="2020-04-30T13:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEnterSearch -->
+        <test-method status="PASS" signature="testExitSearch()[pri:4, instance:edu.testcase.NewsPageTest@7907ec20]" name="testExitSearch" duration-ms="1825" started-at="2020-04-30T13:43:21Z" finished-at="2020-04-30T13:43:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExitSearch -->
+      </class> <!-- edu.testcase.NewsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
