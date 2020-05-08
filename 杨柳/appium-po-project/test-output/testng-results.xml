@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="13" total="14" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43702" started-at="2020-05-03T10:49:02Z" finished-at="2020-05-03T10:49:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43702" started-at="2020-05-03T10:49:02Z" finished-at="2020-05-03T10:49:46Z">
+      <class name="edu.testcase.AddTest">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:edu.testcase.AddTest@20e2cbe0]" name="startUp" is-config="true" duration-ms="11316" started-at="2020-05-03T10:49:02Z" finished-at="2020-05-03T10:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:edu.testcase.AddTest@20e2cbe0]" name="login" is-config="true" duration-ms="2553" started-at="2020-05-03T10:49:13Z" finished-at="2020-05-03T10:49:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="add12()[pri:12, instance:edu.testcase.AddTest@20e2cbe0]" name="add12" duration-ms="29808" started-at="2020-05-03T10:49:16Z" description="添加约球信息-当前时间-邀请人加入队伍" finished-at="2020-05-03T10:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add12 -->
+      </class> <!-- edu.testcase.AddTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
