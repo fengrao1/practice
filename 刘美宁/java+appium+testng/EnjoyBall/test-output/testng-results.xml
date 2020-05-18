@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="122243" started-at="2020-05-06T15:20:09Z" finished-at="2020-05-06T15:22:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="122243" started-at="2020-05-06T15:20:09Z" finished-at="2020-05-06T15:22:11Z">
+      <class name="enjoyball_test.HomePageTest">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:enjoyball_test.HomePageTest@3834d63f]" name="startUp" is-config="true" duration-ms="20514" started-at="2020-05-06T23:20:09Z" finished-at="2020-05-06T23:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:enjoyball_test.HomePageTest@3834d63f]" name="login" is-config="true" duration-ms="1828" started-at="2020-05-06T23:20:30Z" description="登录" finished-at="2020-05-06T23:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="personal_invitation(java.lang.String)[pri:21, instance:enjoyball_test.HomePageTest@3834d63f]" name="personal_invitation" duration-ms="33450" started-at="2020-05-06T23:20:32Z" description="邀请测试" data-provider="invitation" finished-at="2020-05-06T23:21:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13165532297]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personal_invitation -->
+        <test-method status="PASS" signature="personal_invitation(java.lang.String)[pri:21, instance:enjoyball_test.HomePageTest@3834d63f]" name="personal_invitation" duration-ms="35376" started-at="2020-05-06T23:21:06Z" description="邀请测试" data-provider="invitation" finished-at="2020-05-06T23:21:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[131655322970]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personal_invitation -->
+        <test-method status="PASS" signature="personal_invitation(java.lang.String)[pri:21, instance:enjoyball_test.HomePageTest@3834d63f]" name="personal_invitation" duration-ms="30498" started-at="2020-05-06T23:21:41Z" description="邀请测试" data-provider="invitation" finished-at="2020-05-06T23:22:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1316553229]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personal_invitation -->
+      </class> <!-- enjoyball_test.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
