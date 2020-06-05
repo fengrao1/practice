@@ -6,3 +6,6 @@
 java+appium+TestNG的自动化测试用例的编写20条完成，
 Python+Appium完成自动化测试，完成13条测试用例；
 复习uiautomator的使用，完成10条自动化测试测试用例；
+使用Jmeter完成相关场景的测试；
+
+实训期间，巩固了测试用例的编写方法，熟练使用Java+Appium+TestNG和Python+Appium编写了自动化测试用例，复习巩固了uiautomator的使用，复习Jmeter的使用，使用Jmeter完成相关场景的测试。
